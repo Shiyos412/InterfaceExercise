@@ -5,5 +5,6 @@ namespace InterfaceExercise
     {
         public string logo { get; set; }
         public string name { get; set; }
+        
     }
 }
